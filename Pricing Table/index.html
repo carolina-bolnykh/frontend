@@ -23,11 +23,12 @@
       }
 
       .pricing-plan{
+        /* using flex: 1 means 1 grow, 1 shrink, 0 size and keeps uniform*/
         flex: 1;
         background-color: lightgray;
       }
       /* Hint: What can you do with a media query and flexbox? */
-      @media (max-width: 1250px) {
+      @media (max-width: 950px) {
         .pricing-container{
           flex-direction: column;
         }
