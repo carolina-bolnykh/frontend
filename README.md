@@ -12,7 +12,6 @@ Recreating the Mondrian Painting
 
 (painting)
 
-
 <img width="356" alt="Screenshot 2024-03-26 at 11 00 19 PM" src="https://github.com/carolina-bolnykh/frontend/assets/91427069/423f1cba-ff9a-4f4e-a4c1-5704052040de">
 
 (index.html)
