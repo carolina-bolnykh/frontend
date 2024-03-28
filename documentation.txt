@@ -5,6 +5,11 @@ flexbox: aligning items
 
 
 grid: best for 2d displays
+  - display: grid
+  - grid-template-rows: 100px 100px 150px 200px
+  - grid-template-cols: repeat(50px, 4)
+  - grid-row: span 2
+  - grid-column: span 9
 
 
 bootstrap: premade components
