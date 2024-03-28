@@ -1,0 +1,18 @@
+flexbox: aligning items 
+  - justify-content: along main axis
+  - align-items: along opposing axis
+  - easiest way to center a div is to display: flex in the container and justify & align center
+
+
+grid: best for 2d displays
+  - display: grid
+  - grid-template-rows: 100px 100px 150px 200px
+  - grid-template-cols: repeat(50px, 4)
+  - grid-row: span 2
+  - grid-column: span 9
+
+
+bootstrap: premade components
+    - good for creating responsive websites, has good breakpoints
+    - <div class = "col-10"> occupies 10 out of 12 columns
+    <div class = "col-lg-10"> occupies 10 out of 12 columns when we hit the lg mark, this removes the need for media queries
