@@ -2,9 +2,9 @@
 
 - html
   
-- css flexbox
+- css: flexbox, grid
   
-- css grid
+- bootstrap
 
 Recreating the Mondrian Painting (painting on the left, code output on the right): 
 
