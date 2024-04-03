@@ -2,6 +2,7 @@ flexbox: aligning items
   - justify-content: along main axis
   - align-items: along opposing axis
   - easiest way to center a div is to display: flex in the container and justify & align center
+  - vh: 100
 
 
 grid: best for 2d displays
