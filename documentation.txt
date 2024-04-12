@@ -14,6 +14,8 @@ grid: best for 2d displays
 
 
 bootstrap: premade components
+    - relies on a premade 12-column system
     - good for creating responsive websites, has good breakpoints
     - <div class = "col-10"> occupies 10 out of 12 columns
-    <div class = "col-lg-10"> occupies 10 out of 12 columns when we hit the lg mark, this removes the need for media queries
+    - <div class = "col-lg-10"> occupies 10 out of 12 columns when we hit the lg mark, this removes the need for media queries
+    - if we wanted a row: create a div for container, div for row, and div for each item in the row (each item's class is where the col-10 is applied)
